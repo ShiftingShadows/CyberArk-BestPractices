@@ -1,1 +1,1 @@
-# CyberArk-BestPractices
+# CyberArk Best Practices
